@@ -16,7 +16,7 @@ Implementation of an inverted index for text retrieval, using the ranked informa
 
 To analyze the perforamnce of the implementation, a collection of approximately 20 000 tweets is provided. 
 
-* The dictionary of terms is build upon the `text` attrivute.
+* The dictionary of terms is build upon the `text` attribute.
 * `docID` represents the ID of the tweet.
 
 After performance analysis, there's a proposal of an algorithmic solution for the use of secondary memory with big data collections.
